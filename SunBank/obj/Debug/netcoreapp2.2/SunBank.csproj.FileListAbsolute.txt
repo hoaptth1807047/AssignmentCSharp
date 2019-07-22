@@ -1,0 +1,11 @@
+C:\Users\User\RiderProjects\SunBank\SunBank\bin\Debug\netcoreapp2.2\SunBank.deps.json
+C:\Users\User\RiderProjects\SunBank\SunBank\bin\Debug\netcoreapp2.2\SunBank.runtimeconfig.json
+C:\Users\User\RiderProjects\SunBank\SunBank\bin\Debug\netcoreapp2.2\SunBank.runtimeconfig.dev.json
+C:\Users\User\RiderProjects\SunBank\SunBank\bin\Debug\netcoreapp2.2\SunBank.dll
+C:\Users\User\RiderProjects\SunBank\SunBank\bin\Debug\netcoreapp2.2\SunBank.pdb
+C:\Users\User\RiderProjects\SunBank\SunBank\obj\Debug\netcoreapp2.2\SunBank.csprojAssemblyReference.cache
+C:\Users\User\RiderProjects\SunBank\SunBank\obj\Debug\netcoreapp2.2\SunBank.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\SunBank\SunBank\obj\Debug\netcoreapp2.2\SunBank.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\SunBank\SunBank\obj\Debug\netcoreapp2.2\SunBank.AssemblyInfo.cs
+C:\Users\User\RiderProjects\SunBank\SunBank\obj\Debug\netcoreapp2.2\SunBank.dll
+C:\Users\User\RiderProjects\SunBank\SunBank\obj\Debug\netcoreapp2.2\SunBank.pdb

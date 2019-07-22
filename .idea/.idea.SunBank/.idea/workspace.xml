@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05618f6c-0f04-4155-9767-f9b24c438b91" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SunBank/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-852">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+              <folding>
+                <marker date="1563809043780" expanded="true" signature="6:35" ph="..." />
+                <marker date="1563809043780" expanded="true" signature="54:2935" ph="{...}" />
+                <marker date="1563809043780" expanded="true" signature="74:2789" ph="{...}" />
+                <marker date="1563809043780" expanded="true" signature="240:1557" ph="{...}" />
+                <marker date="1563809043780" expanded="true" signature="275:1534" ph="{...}" />
+                <marker date="1563809043780" expanded="true" signature="669:1227" ph="{...}" />
+                <marker date="1563809043780" expanded="true" signature="1317:1400" ph="{...}" />
+                <marker date="1563809043780" expanded="true" signature="1623:2783" ph="{...}" />
+                <marker date="1563809043780" expanded="true" signature="2104:2760" ph="{...}" />
+                <marker date="1563809043780" expanded="true" signature="2150:2650" ph="{...}" />
+                <marker date="1563809043780" expanded="true" signature="2683:2746" ph="{...}" />
+                <marker date="1563809043780" expanded="true" signature="2825:2933" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SunBank/controller/SBTransaction.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2416">
+              <caret line="146" column="12" lean-forward="true" selection-start-line="146" selection-start-column="12" selection-end-line="146" selection-end-column="12" />
+              <folding>
+                <marker date="1563812116089" expanded="false" signature="6:56" ph="..." />
+                <marker date="1563812116089" expanded="true" signature="75:6857" ph="{...}" />
+                <marker date="1563812116089" expanded="true" signature="122:6855" ph="{...}" />
+                <marker date="1563812116089" expanded="true" signature="216:287" ph="{...}" />
+                <marker date="1563812116089" expanded="true" signature="333:965" ph="{...}" />
+                <marker date="1563812116089" expanded="true" signature="688:898" ph="{...}" />
+                <marker date="1563812116089" expanded="true" signature="996:3001" ph="{...}" />
+                <marker date="1563812116089" expanded="true" signature="1062:2873" ph="{...}" />
+                <marker date="1563812116089" expanded="true" signature="1352:1492" ph="{...}" />
+                <marker date="1563812116089" expanded="true" signature="1562:2183" ph="{...}" />
+                <marker date="1563812116089" expanded="true" signature="2279:2656" ph="{...}" />
+                <marker date="1563812116089" expanded="true" signature="2531:2638" ph="{...}" />
+                <marker date="1563812116089" expanded="true" signature="2677:2859" ph="{...}" />
+                <marker date="1563812116089" expanded="true" signature="2890:2991" ph="{...}" />
+                <marker date="1563812116089" expanded="true" signature="3032:4888" ph="{...}" />
+                <marker date="1563812116089" expanded="true" signature="3098:4760" ph="{...}" />
+                <marker date="1563812116089" expanded="true" signature="3435:4054" ph="{...}" />
+                <marker date="1563812116089" expanded="true" signature="4151:4526" ph="{...}" />
+                <marker date="1563812116089" expanded="true" signature="4401:4508" ph="{...}" />
+                <marker date="1563812116089" expanded="true" signature="4547:4746" ph="{...}" />
+                <marker date="1563812116089" expanded="true" signature="4777:4878" ph="{...}" />
+                <marker date="1563812116089" expanded="true" signature="4920:6849" ph="{...}" />
+                <marker date="1563812116089" expanded="true" signature="4986:6722" ph="{...}" />
+                <marker date="1563812116089" expanded="true" signature="5456:6054" ph="{...}" />
+                <marker date="1563812116089" expanded="true" signature="6146:6488" ph="{...}" />
+                <marker date="1563812116089" expanded="true" signature="6363:6470" ph="{...}" />
+                <marker date="1563812116089" expanded="true" signature="6509:6708" ph="{...}" />
+                <marker date="1563812116089" expanded="true" signature="6739:6840" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SunBank/model/ConnectionHelper.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <folding>
+                <marker date="1563526619309" expanded="true" signature="6:48" ph="..." />
+                <marker date="1563526619309" expanded="true" signature="74:1065" ph="{...}" />
+                <marker date="1563526619309" expanded="true" signature="110:1063" ph="{...}" />
+                <marker date="1563526619309" expanded="true" signature="439:807" ph="{...}" />
+                <marker date="1563526619309" expanded="true" signature="543:759" ph="{...}" />
+                <marker date="1563526619309" expanded="true" signature="853:1057" ph="{...}" />
+                <marker date="1563526619309" expanded="true" signature="957:1009" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SunBank/entity/BlockChainAddress.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+              <folding>
+                <marker date="1563809987651" expanded="true" signature="24:700" ph="{...}" />
+                <marker date="1563809987651" expanded="true" signature="61:698" ph="{...}" />
+                <marker date="1563809987651" expanded="true" signature="102:122" ph="{...}" />
+                <marker date="1563809987651" expanded="true" signature="245:446" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SunBank/entity/SBAccount.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+              <folding>
+                <marker date="1563526619273" expanded="true" signature="24:749" ph="{...}" />
+                <marker date="1563526619273" expanded="true" signature="53:747" ph="{...}" />
+                <marker date="1563526619273" expanded="true" signature="86:106" ph="{...}" />
+                <marker date="1563526619273" expanded="true" signature="216:405" ph="{...}" />
+                <marker date="1563526619273" expanded="true" signature="697:741" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SunBank/model/SBAccountModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="125" column="20" selection-start-line="125" selection-start-column="20" selection-end-line="125" selection-end-column="20" />
+              <folding>
+                <marker date="1563811935178" expanded="true" signature="6:65" ph="..." />
+                <marker date="1563811935178" expanded="true" signature="90:9033" ph="{...}" />
+                <marker date="1563811935178" expanded="true" signature="124:9031" ph="{...}" />
+                <marker date="1563811935178" expanded="true" signature="215:972" ph="{...}" />
+                <marker date="1563811935178" expanded="true" signature="644:871" ph="{...}" />
+                <marker date="1563811935178" expanded="true" signature="1070:4618" ph="{...}" />
+                <marker date="1563811935178" expanded="true" signature="1174:4330" ph="{...}" />
+                <marker date="1563811935178" expanded="true" signature="1564:1666" ph="{...}" />
+                <marker date="1563811935178" expanded="true" signature="1840:1953" ph="{...}" />
+                <marker date="1563811935178" expanded="true" signature="2036:2132" ph="{...}" />
+                <marker date="1563811935178" expanded="true" signature="2230:2326" ph="{...}" />
+                <marker date="1563811935178" expanded="true" signature="4131:4255" ph="{...}" />
+                <marker date="1563811935178" expanded="true" signature="4362:4492" ph="{...}" />
+                <marker date="1563811935178" expanded="true" signature="4512:4608" ph="{...}" />
+                <marker date="1563811935178" expanded="true" signature="4711:9025" ph="{...}" />
+                <marker date="1563811935178" expanded="true" signature="4815:8753" ph="{...}" />
+                <marker date="1563811935178" expanded="true" signature="5225:5327" ph="{...}" />
+                <marker date="1563811935178" expanded="true" signature="5419:5517" ph="{...}" />
+                <marker date="1563811935178" expanded="true" signature="6568:6672" ph="{...}" />
+                <marker date="1563811935178" expanded="true" signature="8553:8677" ph="{...}" />
+                <marker date="1563811935178" expanded="true" signature="8785:8915" ph="{...}" />
+                <marker date="1563811935178" expanded="true" signature="8935:9015" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SunBank/entity/TransactionBlockChain.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+              <folding>
+                <marker date="1563812758748" expanded="true" signature="24:1372" ph="{...}" />
+                <marker date="1563812758748" expanded="true" signature="65:1365" ph="{...}" />
+                <marker date="1563812758748" expanded="true" signature="107:204" ph="{...}" />
+                <marker date="1563812758748" expanded="true" signature="251:348" ph="{...}" />
+                <marker date="1563812758748" expanded="true" signature="396:416" ph="{...}" />
+                <marker date="1563812758748" expanded="true" signature="622:938" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SunBank/entity/TransactionSB.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="817">
+              <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+              <folding>
+                <marker date="1563811346276" expanded="true" signature="24:1466" ph="{...}" />
+                <marker date="1563811346276" expanded="true" signature="57:1464" ph="{...}" />
+                <marker date="1563811346276" expanded="true" signature="100:197" ph="{...}" />
+                <marker date="1563811346276" expanded="true" signature="244:341" ph="{...}" />
+                <marker date="1563811346276" expanded="true" signature="838:858" ph="{...}" />
+                <marker date="1563811346276" expanded="true" signature="1085:1458" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SunBank/controller/BlockChainTransaction.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="836">
+              <caret line="63" column="63" selection-start-line="63" selection-start-column="63" selection-end-line="63" selection-end-column="63" />
+              <folding>
+                <marker date="1563812935859" expanded="true" signature="6:56" ph="..." />
+                <marker date="1563812935859" expanded="true" signature="75:6668" ph="{...}" />
+                <marker date="1563812935859" expanded="true" signature="130:6666" ph="{...}" />
+                <marker date="1563812935859" expanded="true" signature="240:319" ph="{...}" />
+                <marker date="1563812935859" expanded="true" signature="365:1002" ph="{...}" />
+                <marker date="1563812935859" expanded="true" signature="725:935" ph="{...}" />
+                <marker date="1563812935859" expanded="true" signature="1033:2966" ph="{...}" />
+                <marker date="1563812935859" expanded="true" signature="1099:2838" ph="{...}" />
+                <marker date="1563812935859" expanded="true" signature="1397:1537" ph="{...}" />
+                <marker date="1563812935859" expanded="true" signature="1615:2145" ph="{...}" />
+                <marker date="1563812935859" expanded="true" signature="2241:2621" ph="{...}" />
+                <marker date="1563812935859" expanded="true" signature="2496:2603" ph="{...}" />
+                <marker date="1563812935859" expanded="true" signature="2642:2824" ph="{...}" />
+                <marker date="1563812935859" expanded="true" signature="2855:2956" ph="{...}" />
+                <marker date="1563812935859" expanded="true" signature="2997:4784" ph="{...}" />
+                <marker date="1563812935859" expanded="true" signature="3063:4656" ph="{...}" />
+                <marker date="1563812935859" expanded="true" signature="3418:3947" ph="{...}" />
+                <marker date="1563812935859" expanded="true" signature="4044:4422" ph="{...}" />
+                <marker date="1563812935859" expanded="true" signature="4297:4404" ph="{...}" />
+                <marker date="1563812935859" expanded="true" signature="4443:4642" ph="{...}" />
+                <marker date="1563812935859" expanded="true" signature="4673:4774" ph="{...}" />
+                <marker date="1563812935859" expanded="true" signature="4816:6660" ph="{...}" />
+                <marker date="1563812935859" expanded="true" signature="4882:6533" ph="{...}" />
+                <marker date="1563812935859" expanded="true" signature="5356:5863" ph="{...}" />
+                <marker date="1563812935859" expanded="true" signature="5955:6299" ph="{...}" />
+                <marker date="1563812935859" expanded="true" signature="6174:6281" ph="{...}" />
+                <marker date="1563812935859" expanded="true" signature="6320:6519" ph="{...}" />
+                <marker date="1563812935859" expanded="true" signature="6550:6651" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SunBank/model/BlockChainAddressModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="162" column="32" selection-start-line="162" selection-start-column="32" selection-end-line="162" selection-end-column="32" />
+              <folding>
+                <marker date="1563811935073" expanded="true" signature="6:65" ph="..." />
+                <marker date="1563811935073" expanded="true" signature="90:8740" ph="{...}" />
+                <marker date="1563811935073" expanded="true" signature="132:8738" ph="{...}" />
+                <marker date="1563811935073" expanded="true" signature="233:1043" ph="{...}" />
+                <marker date="1563811935073" expanded="true" signature="681:934" ph="{...}" />
+                <marker date="1563811935073" expanded="true" signature="1157:4561" ph="{...}" />
+                <marker date="1563811935073" expanded="true" signature="1261:4273" ph="{...}" />
+                <marker date="1563811935073" expanded="true" signature="1647:1749" ph="{...}" />
+                <marker date="1563811935073" expanded="true" signature="1931:2044" ph="{...}" />
+                <marker date="1563811935073" expanded="true" signature="2135:2231" ph="{...}" />
+                <marker date="1563811935073" expanded="true" signature="2337:2433" ph="{...}" />
+                <marker date="1563811935073" expanded="true" signature="4074:4198" ph="{...}" />
+                <marker date="1563811935073" expanded="true" signature="4305:4435" ph="{...}" />
+                <marker date="1563811935073" expanded="true" signature="4455:4551" ph="{...}" />
+                <marker date="1563811935073" expanded="true" signature="4670:8732" ph="{...}" />
+                <marker date="1563811935073" expanded="true" signature="4774:8460" ph="{...}" />
+                <marker date="1563811935073" expanded="true" signature="5159:5261" ph="{...}" />
+                <marker date="1563811935073" expanded="true" signature="5353:5451" ph="{...}" />
+                <marker date="1563811935073" expanded="true" signature="6439:6543" ph="{...}" />
+                <marker date="1563811935073" expanded="true" signature="8260:8384" ph="{...}" />
+                <marker date="1563811935073" expanded="true" signature="8492:8622" ph="{...}" />
+                <marker date="1563811935073" expanded="true" signature="8642:8722" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SunBank/controller/SBTransaction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SunBank/model/SBAccountModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SunBank/entity/SBAccount.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SunBank/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SunBank/entity/TransactionBlockChain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SunBank/entity/TransactionSB.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SunBank/entity/BlockChainAddress.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SunBank/model/ConnectionHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SunBank/controller/BlockChainTransaction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SunBank/model/BlockChainAddressModel.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SunBank/GiaoDichSH.cs" />
+        <option value="$PROJECT_DIR$/SunBank/GiaoDichBlockChain.cs" />
+        <option value="$PROJECT_DIR$/SunBank/GiaoDichSB.cs" />
+        <option value="$PROJECT_DIR$/SunBank/entity/Account.cs" />
+        <option value="$PROJECT_DIR$/SunBank/BlockChainTransaction.cs" />
+        <option value="$PROJECT_DIR$/SunBank/model/ConnectionHelper.cs" />
+        <option value="$PROJECT_DIR$/SunBank/entity/SBAccount.cs" />
+        <option value="$PROJECT_DIR$/SunBank/SBTransaction.cs" />
+        <option value="$PROJECT_DIR$/SunBank/entity/BlockChainAddress.cs" />
+        <option value="$PROJECT_DIR$/SunBank/entity/TransactionSB.cs" />
+        <option value="$PROJECT_DIR$/SunBank/model/BlockChainAddressModel.cs" />
+        <option value="$PROJECT_DIR$/SunBank/model/SBAccountModel.cs" />
+        <option value="$PROJECT_DIR$/SunBank/controller/SBTransaction.cs" />
+        <option value="$PROJECT_DIR$/SunBank/Program.cs" />
+        <option value="$PROJECT_DIR$/SunBank/entity/TransactionBlockChain.cs" />
+        <option value="$PROJECT_DIR$/SunBank/controller/BlockChainTransaction.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="20" />
+    <option name="width" value="1440" />
+    <option name="height" value="809" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SunBank" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SunBank" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SunBank" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SunBank" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SunBank" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="controller" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SunBank" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SunBank" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="entity" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SunBank" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SunBank" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="model" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/SunBank/bin/Debug/netcoreapp2.2/SunBank.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SunBank" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SunBank/SunBank.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05618f6c-0f04-4155-9767-f9b24c438b91" name="Default Changelist" comment="" />
+      <created>1563356874548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563356874548</updated>
+      <workItem from="1563356875916" duration="7796000" />
+      <workItem from="1563518788376" duration="11884000" />
+      <workItem from="1563610809851" duration="3821000" />
+      <workItem from="1563715893862" duration="606000" />
+      <workItem from="1563772375621" duration="16799000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40906000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2680621" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32756132" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32756132" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" weight="0.32900432" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.32900432" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32756132" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2680621" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32756132" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32756132" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" weight="0.32900432" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.32900432" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32756132" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SunBank/GiaoDichSH.cs" />
+    <entry file="file://$PROJECT_DIR$/SunBank/model/ConnectionHelper.java" />
+    <entry file="file://$PROJECT_DIR$/SunBank/entity/SBAccount.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+          <folding>
+            <marker date="1563526619273" expanded="true" signature="24:749" ph="{...}" />
+            <marker date="1563526619273" expanded="true" signature="53:747" ph="{...}" />
+            <marker date="1563526619273" expanded="true" signature="86:106" ph="{...}" />
+            <marker date="1563526619273" expanded="true" signature="216:405" ph="{...}" />
+            <marker date="1563526619273" expanded="true" signature="697:741" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SunBank/entity/BlockChainAddress.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+          <folding>
+            <marker date="1563809987651" expanded="true" signature="24:700" ph="{...}" />
+            <marker date="1563809987651" expanded="true" signature="61:698" ph="{...}" />
+            <marker date="1563809987651" expanded="true" signature="102:122" ph="{...}" />
+            <marker date="1563809987651" expanded="true" signature="245:446" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SunBank/entity/TransactionSB.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+          <folding>
+            <marker date="1563811346276" expanded="true" signature="24:1466" ph="{...}" />
+            <marker date="1563811346276" expanded="true" signature="57:1464" ph="{...}" />
+            <marker date="1563811346276" expanded="true" signature="100:197" ph="{...}" />
+            <marker date="1563811346276" expanded="true" signature="244:341" ph="{...}" />
+            <marker date="1563811346276" expanded="true" signature="838:858" ph="{...}" />
+            <marker date="1563811346276" expanded="true" signature="1085:1458" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SunBank/model/BlockChainAddressModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="162" column="32" selection-start-line="162" selection-start-column="32" selection-end-line="162" selection-end-column="32" />
+          <folding>
+            <marker date="1563811935073" expanded="true" signature="6:65" ph="..." />
+            <marker date="1563811935073" expanded="true" signature="90:8740" ph="{...}" />
+            <marker date="1563811935073" expanded="true" signature="132:8738" ph="{...}" />
+            <marker date="1563811935073" expanded="true" signature="233:1043" ph="{...}" />
+            <marker date="1563811935073" expanded="true" signature="681:934" ph="{...}" />
+            <marker date="1563811935073" expanded="true" signature="1157:4561" ph="{...}" />
+            <marker date="1563811935073" expanded="true" signature="1261:4273" ph="{...}" />
+            <marker date="1563811935073" expanded="true" signature="1647:1749" ph="{...}" />
+            <marker date="1563811935073" expanded="true" signature="1931:2044" ph="{...}" />
+            <marker date="1563811935073" expanded="true" signature="2135:2231" ph="{...}" />
+            <marker date="1563811935073" expanded="true" signature="2337:2433" ph="{...}" />
+            <marker date="1563811935073" expanded="true" signature="4074:4198" ph="{...}" />
+            <marker date="1563811935073" expanded="true" signature="4305:4435" ph="{...}" />
+            <marker date="1563811935073" expanded="true" signature="4455:4551" ph="{...}" />
+            <marker date="1563811935073" expanded="true" signature="4670:8732" ph="{...}" />
+            <marker date="1563811935073" expanded="true" signature="4774:8460" ph="{...}" />
+            <marker date="1563811935073" expanded="true" signature="5159:5261" ph="{...}" />
+            <marker date="1563811935073" expanded="true" signature="5353:5451" ph="{...}" />
+            <marker date="1563811935073" expanded="true" signature="6439:6543" ph="{...}" />
+            <marker date="1563811935073" expanded="true" signature="8260:8384" ph="{...}" />
+            <marker date="1563811935073" expanded="true" signature="8492:8622" ph="{...}" />
+            <marker date="1563811935073" expanded="true" signature="8642:8722" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SunBank/model/SBAccountModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="125" column="20" selection-start-line="125" selection-start-column="20" selection-end-line="125" selection-end-column="20" />
+          <folding>
+            <marker date="1563811935178" expanded="true" signature="6:65" ph="..." />
+            <marker date="1563811935178" expanded="true" signature="90:9033" ph="{...}" />
+            <marker date="1563811935178" expanded="true" signature="124:9031" ph="{...}" />
+            <marker date="1563811935178" expanded="true" signature="215:972" ph="{...}" />
+            <marker date="1563811935178" expanded="true" signature="644:871" ph="{...}" />
+            <marker date="1563811935178" expanded="true" signature="1070:4618" ph="{...}" />
+            <marker date="1563811935178" expanded="true" signature="1174:4330" ph="{...}" />
+            <marker date="1563811935178" expanded="true" signature="1564:1666" ph="{...}" />
+            <marker date="1563811935178" expanded="true" signature="1840:1953" ph="{...}" />
+            <marker date="1563811935178" expanded="true" signature="2036:2132" ph="{...}" />
+            <marker date="1563811935178" expanded="true" signature="2230:2326" ph="{...}" />
+            <marker date="1563811935178" expanded="true" signature="4131:4255" ph="{...}" />
+            <marker date="1563811935178" expanded="true" signature="4362:4492" ph="{...}" />
+            <marker date="1563811935178" expanded="true" signature="4512:4608" ph="{...}" />
+            <marker date="1563811935178" expanded="true" signature="4711:9025" ph="{...}" />
+            <marker date="1563811935178" expanded="true" signature="4815:8753" ph="{...}" />
+            <marker date="1563811935178" expanded="true" signature="5225:5327" ph="{...}" />
+            <marker date="1563811935178" expanded="true" signature="5419:5517" ph="{...}" />
+            <marker date="1563811935178" expanded="true" signature="6568:6672" ph="{...}" />
+            <marker date="1563811935178" expanded="true" signature="8553:8677" ph="{...}" />
+            <marker date="1563811935178" expanded="true" signature="8785:8915" ph="{...}" />
+            <marker date="1563811935178" expanded="true" signature="8935:9015" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SunBank/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-852">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <marker date="1563809043780" expanded="true" signature="6:35" ph="..." />
+            <marker date="1563809043780" expanded="true" signature="54:2935" ph="{...}" />
+            <marker date="1563809043780" expanded="true" signature="74:2789" ph="{...}" />
+            <marker date="1563809043780" expanded="true" signature="240:1557" ph="{...}" />
+            <marker date="1563809043780" expanded="true" signature="275:1534" ph="{...}" />
+            <marker date="1563809043780" expanded="true" signature="669:1227" ph="{...}" />
+            <marker date="1563809043780" expanded="true" signature="1317:1400" ph="{...}" />
+            <marker date="1563809043780" expanded="true" signature="1623:2783" ph="{...}" />
+            <marker date="1563809043780" expanded="true" signature="2104:2760" ph="{...}" />
+            <marker date="1563809043780" expanded="true" signature="2150:2650" ph="{...}" />
+            <marker date="1563809043780" expanded="true" signature="2683:2746" ph="{...}" />
+            <marker date="1563809043780" expanded="true" signature="2825:2933" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SunBank/model/ConnectionHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1563526619309" expanded="true" signature="6:48" ph="..." />
+            <marker date="1563526619309" expanded="true" signature="74:1065" ph="{...}" />
+            <marker date="1563526619309" expanded="true" signature="110:1063" ph="{...}" />
+            <marker date="1563526619309" expanded="true" signature="439:807" ph="{...}" />
+            <marker date="1563526619309" expanded="true" signature="543:759" ph="{...}" />
+            <marker date="1563526619309" expanded="true" signature="853:1057" ph="{...}" />
+            <marker date="1563526619309" expanded="true" signature="957:1009" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SunBank/entity/TransactionBlockChain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+          <folding>
+            <marker date="1563812758748" expanded="true" signature="24:1372" ph="{...}" />
+            <marker date="1563812758748" expanded="true" signature="65:1365" ph="{...}" />
+            <marker date="1563812758748" expanded="true" signature="107:204" ph="{...}" />
+            <marker date="1563812758748" expanded="true" signature="251:348" ph="{...}" />
+            <marker date="1563812758748" expanded="true" signature="396:416" ph="{...}" />
+            <marker date="1563812758748" expanded="true" signature="622:938" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SunBank/controller/BlockChainTransaction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="63" column="63" selection-start-line="63" selection-start-column="63" selection-end-line="63" selection-end-column="63" />
+          <folding>
+            <marker date="1563812935859" expanded="true" signature="6:56" ph="..." />
+            <marker date="1563812935859" expanded="true" signature="75:6668" ph="{...}" />
+            <marker date="1563812935859" expanded="true" signature="130:6666" ph="{...}" />
+            <marker date="1563812935859" expanded="true" signature="240:319" ph="{...}" />
+            <marker date="1563812935859" expanded="true" signature="365:1002" ph="{...}" />
+            <marker date="1563812935859" expanded="true" signature="725:935" ph="{...}" />
+            <marker date="1563812935859" expanded="true" signature="1033:2966" ph="{...}" />
+            <marker date="1563812935859" expanded="true" signature="1099:2838" ph="{...}" />
+            <marker date="1563812935859" expanded="true" signature="1397:1537" ph="{...}" />
+            <marker date="1563812935859" expanded="true" signature="1615:2145" ph="{...}" />
+            <marker date="1563812935859" expanded="true" signature="2241:2621" ph="{...}" />
+            <marker date="1563812935859" expanded="true" signature="2496:2603" ph="{...}" />
+            <marker date="1563812935859" expanded="true" signature="2642:2824" ph="{...}" />
+            <marker date="1563812935859" expanded="true" signature="2855:2956" ph="{...}" />
+            <marker date="1563812935859" expanded="true" signature="2997:4784" ph="{...}" />
+            <marker date="1563812935859" expanded="true" signature="3063:4656" ph="{...}" />
+            <marker date="1563812935859" expanded="true" signature="3418:3947" ph="{...}" />
+            <marker date="1563812935859" expanded="true" signature="4044:4422" ph="{...}" />
+            <marker date="1563812935859" expanded="true" signature="4297:4404" ph="{...}" />
+            <marker date="1563812935859" expanded="true" signature="4443:4642" ph="{...}" />
+            <marker date="1563812935859" expanded="true" signature="4673:4774" ph="{...}" />
+            <marker date="1563812935859" expanded="true" signature="4816:6660" ph="{...}" />
+            <marker date="1563812935859" expanded="true" signature="4882:6533" ph="{...}" />
+            <marker date="1563812935859" expanded="true" signature="5356:5863" ph="{...}" />
+            <marker date="1563812935859" expanded="true" signature="5955:6299" ph="{...}" />
+            <marker date="1563812935859" expanded="true" signature="6174:6281" ph="{...}" />
+            <marker date="1563812935859" expanded="true" signature="6320:6519" ph="{...}" />
+            <marker date="1563812935859" expanded="true" signature="6550:6651" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SunBank/controller/SBTransaction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2416">
+          <caret line="146" column="12" lean-forward="true" selection-start-line="146" selection-start-column="12" selection-end-line="146" selection-end-column="12" />
+          <folding>
+            <marker date="1563812116089" expanded="false" signature="6:56" ph="..." />
+            <marker date="1563812116089" expanded="true" signature="75:6857" ph="{...}" />
+            <marker date="1563812116089" expanded="true" signature="122:6855" ph="{...}" />
+            <marker date="1563812116089" expanded="true" signature="216:287" ph="{...}" />
+            <marker date="1563812116089" expanded="true" signature="333:965" ph="{...}" />
+            <marker date="1563812116089" expanded="true" signature="688:898" ph="{...}" />
+            <marker date="1563812116089" expanded="true" signature="996:3001" ph="{...}" />
+            <marker date="1563812116089" expanded="true" signature="1062:2873" ph="{...}" />
+            <marker date="1563812116089" expanded="true" signature="1352:1492" ph="{...}" />
+            <marker date="1563812116089" expanded="true" signature="1562:2183" ph="{...}" />
+            <marker date="1563812116089" expanded="true" signature="2279:2656" ph="{...}" />
+            <marker date="1563812116089" expanded="true" signature="2531:2638" ph="{...}" />
+            <marker date="1563812116089" expanded="true" signature="2677:2859" ph="{...}" />
+            <marker date="1563812116089" expanded="true" signature="2890:2991" ph="{...}" />
+            <marker date="1563812116089" expanded="true" signature="3032:4888" ph="{...}" />
+            <marker date="1563812116089" expanded="true" signature="3098:4760" ph="{...}" />
+            <marker date="1563812116089" expanded="true" signature="3435:4054" ph="{...}" />
+            <marker date="1563812116089" expanded="true" signature="4151:4526" ph="{...}" />
+            <marker date="1563812116089" expanded="true" signature="4401:4508" ph="{...}" />
+            <marker date="1563812116089" expanded="true" signature="4547:4746" ph="{...}" />
+            <marker date="1563812116089" expanded="true" signature="4777:4878" ph="{...}" />
+            <marker date="1563812116089" expanded="true" signature="4920:6849" ph="{...}" />
+            <marker date="1563812116089" expanded="true" signature="4986:6722" ph="{...}" />
+            <marker date="1563812116089" expanded="true" signature="5456:6054" ph="{...}" />
+            <marker date="1563812116089" expanded="true" signature="6146:6488" ph="{...}" />
+            <marker date="1563812116089" expanded="true" signature="6363:6470" ph="{...}" />
+            <marker date="1563812116089" expanded="true" signature="6509:6708" ph="{...}" />
+            <marker date="1563812116089" expanded="true" signature="6739:6840" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
